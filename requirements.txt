@@ -5,3 +5,4 @@ streamlit==1.10.0
 matplotlib==3.9.1
 scikit-learn==1.5.1
 pip==24.1.2
+gunicorn==22.0.0
